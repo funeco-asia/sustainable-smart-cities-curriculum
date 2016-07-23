@@ -9,3 +9,4 @@ Courses | Provider | Platform | Duration | Effort
 [Future Cities] (https://www.edx.org/course/future-cities-ethx-fc-01x-2) | ETH Zürich | edX | 10 weeks | 3 hours p/w
 [Quality of Life: Livability in Future Cities] (https://www.edx.org/course/quality-life-livability-future-cities-ethx-fc-02x-1) | ETH Zürich | edX | 11 weeks | 3 hours p/w
 [Climate Justice: Lessons From the Global South] (https://www.futurelearn.com/courses/climate-justice) | UNESCO | FutureLearn | 4 weeks | 2 hours p/w
+[Our Hungry Planet: Agriculture, People and Food Security] (https://www.futurelearn.com/courses/our-hungry-planet) | University of Reading | FutureLearn | 4 weeks | 2 hours p/w
