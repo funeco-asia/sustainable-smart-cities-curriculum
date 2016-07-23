@@ -11,3 +11,4 @@ Courses | Provider | Platform | Duration | Effort
 [Urban Development in Conflict Cities: Planning Challenges and Policy Innovations](http://ocw.mit.edu/courses/urban-studies-and-planning/11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015/index.htm) | MIT | Open Courseware | 12 weeks | 3 hours p/w
 [Future Cities] (https://www.edx.org/course/future-cities-ethx-fc-01x-2) | ETH Zürich | edX | 10 weeks | 3 hours p/w
 [Quality of Life: Livability in Future Cities] (https://www.edx.org/course/quality-life-livability-future-cities-ethx-fc-02x-1) | ETH Zürich | edX | 11 weeks | 3 hours p/w
+[Developing Your Research Project](https://www.futurelearn.com/courses/research-project) | University of Southampton | FutureLearn | 8 weeks | 1 hour p/w
