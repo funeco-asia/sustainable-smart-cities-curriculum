@@ -8,3 +8,4 @@ Courses | Provider | Platform | Duration | Effort
 [Water For Livable And Resilient Cities] (https://www.futurelearn.com/courses/liveable-cities) | Monash Univeristy | FutureLearn | 7 weeks | 4 hours p/w 
 [Future Cities] (https://www.edx.org/course/future-cities-ethx-fc-01x-2) | ETH Zürich | edX | 10 weeks | 3 hours p/w
 [Quality of Life: Livability in Future Cities] (https://www.edx.org/course/quality-life-livability-future-cities-ethx-fc-02x-1) | ETH Zürich | edX | 11 weeks | 3 hours p/w
+[Climate Justice: Lessons From the Global South] (https://www.futurelearn.com/courses/climate-justice) | UNESCO | FutureLearn | 4 weeks | 2 hours p/w
