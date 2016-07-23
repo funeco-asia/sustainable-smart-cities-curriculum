@@ -10,3 +10,4 @@ Courses | Provider | Platform | Duration | Effort
 [Quality of Life: Livability in Future Cities] (https://www.edx.org/course/quality-life-livability-future-cities-ethx-fc-02x-1) | ETH Zürich | edX | 11 weeks | 3 hours p/w
 [Climate Justice: Lessons From the Global South] (https://www.futurelearn.com/courses/climate-justice) | UNESCO | FutureLearn | 4 weeks | 2 hours p/w
 [Our Hungry Planet: Agriculture, People and Food Security] (https://www.futurelearn.com/courses/our-hungry-planet) | University of Reading | FutureLearn | 4 weeks | 2 hours p/w
+[Urban Development in Conflict Cities: Planning Challenges and Policy Innovations](http://ocw.mit.edu/courses/urban-studies-and-planning/11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015/index.htm) | MIT | Open Courseware | 1 semester | 3 hours p/w
