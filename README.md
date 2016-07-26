@@ -1,6 +1,6 @@
 # sustainable-urban-development-curriculum
 
-curriculum for learning sustainable urban development and citizen engagement in city design
+curriculum made of free courses for learning sustainable urban development and citizen engagement in city design
 
 Courses | Provider | Platform | Duration | Effort | Co-learning
 :-- | :--: | :--: | :--: | :--: | :--:
