@@ -4,7 +4,7 @@ curriculum for learning sustainable urban development and citizen engagement in 
 
 Courses | Provider | Platform | Duration | Effort | Co-learning
 :-- | :--: | :--: | :--: | :--: | :--:
-[Human Centered Design For Social Innovations] (http://plusacumen.org/courses/hcd-for-social-innovation/) | Acumen | IDEO | 7 weeks | 5 hours p/w |
+[Human Centered Design For Social Innovations] (http://plusacumen.org/courses/hcd-for-social-innovation/) | +Acumen | IDEO | 7 weeks | 5 hours p/w |
 [Smart Cities](https://www.futurelearn.com/courses/smart-cities) | The Open University | FutureLearn | 6 weeks | 3 hours p/w
 [Reclaiming Broken Places: Introduction to Civic Ecology] (https://www.edx.org/course/reclaiming-broken-places-introduction-cornellx-envsci1500x-0) | Cornell University | edX | 6 weeks | 4 hours p/w | [HK](http://www.meetup.com/Green-Sustainable-Living-Hong-Kong/events/232005726/)
 [Water For Livable And Resilient Cities] (https://www.futurelearn.com/courses/liveable-cities) | Monash Univeristy | FutureLearn | 7 weeks | 4 hours p/w |
