@@ -7,6 +7,7 @@ Courses | Provider | Platform | Duration | Effort | Co-learning
 [Human Centered Design For Social Innovations] (http://plusacumen.org/courses/hcd-for-social-innovation/) | +Acumen | IDEO | 7 weeks | 5 hours p/w |
 [Smart Cities](https://www.futurelearn.com/courses/smart-cities) | The Open University | FutureLearn | 6 weeks | 3 hours p/w
 [Reclaiming Broken Places: Introduction to Civic Ecology] (https://www.edx.org/course/reclaiming-broken-places-introduction-cornellx-envsci1500x-0) | Cornell University | edX | 6 weeks | 4 hours p/w | [HK](http://www.meetup.com/Green-Sustainable-Living-Hong-Kong/events/232005726/)
+[Ethical Cities: Shaping the Future of Your City] (https://www.futurelearn.com/courses/ethical-cities) | RMIT University | FutureLearn | 5 weeks | 2 hours p/w | 
 [Water For Livable And Resilient Cities] (https://www.futurelearn.com/courses/liveable-cities) | Monash Univeristy | FutureLearn | 7 weeks | 4 hours p/w |
 [Climate Justice: Lessons From the Global South] (https://www.futurelearn.com/courses/climate-justice) | UNESCO | FutureLearn | 4 weeks | 2 hours p/w |
 [Our Hungry Planet: Agriculture, People and Food Security] (https://www.futurelearn.com/courses/our-hungry-planet) | University of Reading | FutureLearn | 4 weeks | 2 hours p/w |
